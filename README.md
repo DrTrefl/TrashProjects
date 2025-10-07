@@ -96,7 +96,7 @@ Black Hole Simulator is a game that lets you manipulate a black hole, for exampl
 
 ## Screenshots
 
-<p align="center"><img src ="assets/screenshots/blackholesimulator.jpg" width="1000px"></p>
+<p align="center"><img src ="assets/screenshots/blackholesimulator.jpg" width="700px"></p>
 
 ---
 
@@ -133,7 +133,7 @@ Fireworks, nothing more and nothing less.
 
 ## Screenshots
 
-<p align="center"><img src ="assets/screenshots/fireworks.jpg" width="1000px"></p>
+<p align="center"><img src ="assets/screenshots/fireworks.jpg" width="700px"></p>
 
 ---
 
